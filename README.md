@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-back url: https://github.com/tesin73/back-briefcase-springboot-react
+back url: https://github.com/tesin73/Briefcase-back-springboot-react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
