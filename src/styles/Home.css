@@ -4,3 +4,9 @@
     justify-content: center;
     flex-wrap: wrap;
 }
+
+.mainContentDiv {
+    text-align: center;
+    margin-inline: 14rem;
+    margin-block: 2rem;
+}
